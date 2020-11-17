@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello, Namaste 🙏🏻
 
-<!--
-**sauravexodus/sauravexodus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate iOS/ Android/ React/ React Native Developer with **5 years** of experience. I'm good with Typescript, Javascript, Swift, Functional programming, Clean Architecture, VIPER, Redux, RxJS, RxSwift, and MVI. I am an active contributor to the open source world and a member of the popular RxSwiftCommunity since last year.
 
-Here are some ideas to get you started:
+#### 📰 Articles
+I love writing about stuff as well. Here are some of the articles that I have published on Medium:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Unit Testing in iOS using Quick, Nimble & RxBlocking](https://medium.com/getpulse/unit-testing-in-ios-using-reactorkit-quick-nimble-rxblocking-swift-4-1-a01ccbaff44b)
+- [Designing apps for multiple sizes](https://medium.com/getpulse/adaptive-ui-for-multiple-screen-sizes-in-ios-fd8c6999a0a3)
+
+I contribute across the stack at this moment (Backend, Frontend, and Native Apps).
+
+#### 🚀 Current Status
+
+Currently working with @SpeechifyInc as an Engineering Manager.
+
+#### 📍 Location
+Bengaluru India
+
+#### 🧑🏻‍💻 Website
+souravchandra.com
