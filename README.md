@@ -12,7 +12,7 @@ I contribute across the stack at this moment (Backend, Frontend, and Native Apps
 
 #### 🚀 Current Status
 
-Currently working with @SpeechifyInc as an Engineering Manager.
+Currently working with @SpeechifyInc as Android Engineering Lead.
 
 #### 📍 Location
 Bengaluru India
