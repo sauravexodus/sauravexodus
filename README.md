@@ -15,7 +15,7 @@ I contribute across the stack at this moment (Backend, Frontend, and Native Apps
 Currently working with @SpeechifyInc as Android Engineering Lead.
 
 #### 📍 Location
-Bengaluru India
+Dubai
 
 #### 🧑🏻‍💻 Website
 souravchandra.com
