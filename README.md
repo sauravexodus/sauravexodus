@@ -1,6 +1,6 @@
 ### Hello, Namaste 🙏🏻
 
-I'm a passionate iOS/ Android/ React/ React Native Developer with **5 years** of experience. I'm good with Typescript, Javascript, Swift, Functional programming, Clean Architecture, VIPER, Redux, RxJS, RxSwift, and MVI. I am an active contributor to the open source world and a member of the popular RxSwiftCommunity since last year.
+I'm a passionate iOS/ Android/ React/ React Native Developer with **5 years** of experience. I'm good with Typescript, Javascript, Swift, Functional programming, Clean Architecture, VIPER, Redux, RxJS, RxSwift, and MVI. I am an active contributor to the open source world and a member of the popular RxSwiftCommunity since 2017.
 
 #### 📰 Articles
 I love writing about stuff as well. Here are some of the articles that I have published on Medium:
