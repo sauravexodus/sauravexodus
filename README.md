@@ -12,7 +12,7 @@ I contribute across the stack at this moment (Backend, Frontend, and Native Apps
 
 #### 🚀 Current Status
 
-Currently working with @SpeechifyInc as Android Engineering Lead.
+Building the missing wheel in Health tech @Countd as the CTO & Cofounder.
 
 #### 📍 Location
 Dubai
