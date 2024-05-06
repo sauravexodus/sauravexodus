@@ -7,6 +7,7 @@ I love writing about stuff as well. Here are some of the articles that I have pu
 
 - [Unit Testing in iOS using Quick, Nimble & RxBlocking](https://medium.com/getpulse/unit-testing-in-ios-using-reactorkit-quick-nimble-rxblocking-swift-4-1-a01ccbaff44b)
 - [Designing apps for multiple sizes](https://medium.com/getpulse/adaptive-ui-for-multiple-screen-sizes-in-ios-fd8c6999a0a3)
+- [Unit Testing your MVI code in RxSwift](https://medium.com/getpulse/unit-testing-in-ios-using-reactorkit-quick-nimble-rxblocking-swift-4-1-a01ccbaff44b)
 
 I contribute across the stack at this moment (Backend, Frontend, and Native Apps).
 
