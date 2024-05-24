@@ -1,6 +1,6 @@
 ### Hello, Namaste 🙏🏻
 
-I'm a passionate iOS/ Android/ React/ React Native Developer with **5 years** of experience. I'm good with Typescript, Javascript, Swift, Functional programming, Clean Architecture, VIPER, Redux, RxJS, RxSwift, and MVI. I am an active contributor to the open source world and a member of the popular RxSwiftCommunity since 2017.
+I'm a passionate iOS/ Android/ React/ React Native Developer with **10 years** of experience. I'm good with Go, Typescript, Javascript, Swift, Functional programming, Clean Architecture, VIPER, Redux, RxJS, RxSwift, and MVI. I am an active contributor to the open source world and a member of the popular RxSwiftCommunity since 2017.
 
 #### 📰 Articles
 I love writing about stuff as well. Here are some of the articles that I have published on Medium:
@@ -14,7 +14,7 @@ I contribute across the stack at this moment (Backend, Frontend, and Native Apps
 
 #### 🚀 Current Status
 
-Building the missing wheel in Health tech @Countd as the CTO & Cofounder.
+Disrupting the mental health space by building Yuna - AI Mental Health Assitant - (GoLang + NodeJS + Swift)
 
 #### 📍 Location
 Dubai
