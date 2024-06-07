@@ -14,7 +14,7 @@ I contribute across the stack at this moment (Backend, Frontend, and Native Apps
 
 #### 🚀 Current Status
 
-Disrupting the mental health space by building Yuna - AI Mental Health Assitant - (GoLang + NodeJS + Swift)
+GoLang + NodeJS + Swift
 
 #### 📍 Location
 Dubai
