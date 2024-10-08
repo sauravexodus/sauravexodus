@@ -14,7 +14,7 @@ I contribute across the stack at this moment (Backend, Frontend, and Native Apps
 
 #### 🚀 Current Status
 
-GoLang + NodeJS + Swift
+Founding Engineer at [Henry AI](https://henry.ai)
 
 #### 📍 Location
 Dubai
